@@ -1,0 +1,14 @@
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\bin\Debug\net7.0\UDA.exe
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\bin\Debug\net7.0\UDA.deps.json
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\bin\Debug\net7.0\UDA.runtimeconfig.json
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\bin\Debug\net7.0\UDA.dll
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\bin\Debug\net7.0\UDA.pdb
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.AssemblyInfoInputs.cache
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.AssemblyInfo.cs
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.csproj.CoreCompileInputs.cache
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.dll
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\refint\UDA.dll
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.pdb
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\UDA.genruntimeconfig.cache
+C:\Users\cgtsb\OneDrive\Área de Trabalho\UDA\obj\Debug\net7.0\ref\UDA.dll
